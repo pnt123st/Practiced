@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebfda541-5036-4294-8df9-dd587bab479b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3SchoolTableData/src/main/java/table/page/TablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/W3SchoolTableData/src/main/java/table/page/TablePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/W3SchoolTableData/src/test/java/table/data/TestTableData.java" beforeDir="false" afterPath="$PROJECT_DIR$/W3SchoolTableData/src/test/java/table/data/TestTableData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3SchoolTableData/target/classes/table/page/TablePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/W3SchoolTableData/target/classes/table/page/TablePage.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/W3SchoolTableData/src/test/java/table/data/TestTableData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="378">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -383,15 +379,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestAmazonHomePage_test1 - 2019.11.08 at 14h 57m 14s.xml">
-      <configuration name="TestAmazonHomePage.test1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestAmazonHomePage_test1 - 2019.11.08 at 15h 34m 18s.xml">
-      <configuration name="TestAmazonHomePage.test1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestAmazonHomePage_test1 - 2019.11.08 at 15h 35m 42s.xml">
-      <configuration name="TestAmazonHomePage.test1" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestAmazonHomePage_test1 - 2019.11.08 at 15h 36m 42s.xml">
       <configuration name="TestAmazonHomePage.test1" configurationId="TestNG" />
     </history-entry>
@@ -412,6 +399,15 @@
     </history-entry>
     <history-entry file="TestTableData_scrapeTable - 2019.11.14 at 01h 41m 15s.xml">
       <configuration name="TestTableData.scrapeTable" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestTableData_scrapeTable - 2019.11.14 at 01h 47m 08s.xml">
+      <configuration name="TestTableData.scrapeTable" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_W3SchoolTableData_src_test_resources_W3SchoolTestRunner_xml - 2019.11.14 at 01h 47m 53s.xml">
+      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_W3SchoolTableData_src_test_resources_W3SchoolTestRunner_xml - 2019.11.14 at 01h 49m 03s.xml">
+      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -596,8 +592,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/W3SchoolTableData/src/test/java/table/data/TestTableData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        <state relative-caret-position="378">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

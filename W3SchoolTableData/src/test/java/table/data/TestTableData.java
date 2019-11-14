@@ -12,6 +12,6 @@ public class TestTableData extends CommonAPI {
         TablePage tablePage = PageFactory.initElements(driver,TablePage.class);
         tablePage.getTableData1();
         tablePage.getTableData2();
-        tablePage.getTableData3();
+       
     }
 }
