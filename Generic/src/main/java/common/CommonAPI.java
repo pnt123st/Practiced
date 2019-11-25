@@ -23,10 +23,10 @@ public class CommonAPI {
         driver.get(url);
     }
 
-    @AfterMethod
+    /*@AfterMethod
     public void cleanUp() {
         driver.close();
-    }
+    }*/
 
     //Helper methods
     public void clickOnElement(String locator) {

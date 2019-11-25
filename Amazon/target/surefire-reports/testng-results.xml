@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon Automation Script " duration-ms="7146" started-at="2019-11-25T02:02:48Z" finished-at="2019-11-25T02:02:55Z">
+    <groups>
+    </groups>
+    <test name="TestAmazonHomePage" duration-ms="7146" started-at="2019-11-25T02:02:48Z" finished-at="2019-11-25T02:02:55Z">
+      <class name="amazonhome.TestAmazonHomePage">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:amazonhome.TestAmazonHomePage@2ef9b8bc]" name="setUp" is-config="true" duration-ms="4838" started-at="2019-11-25T02:02:48Z" finished-at="2019-11-25T02:02:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.amazon.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSearchTextBox()[pri:0, instance:amazonhome.TestAmazonHomePage@2ef9b8bc]" name="testSearchTextBox" duration-ms="2290" started-at="2019-11-25T02:02:53Z" finished-at="2019-11-25T02:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchTextBox -->
+      </class> <!-- amazonhome.TestAmazonHomePage -->
+    </test> <!-- TestAmazonHomePage -->
+  </suite> <!-- Amazon Automation Script  -->
+</testng-results>

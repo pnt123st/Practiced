@@ -4,7 +4,21 @@
     <list default="true" id="ebfda541-5036-4294-8df9-dd587bab479b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3SchoolTableData/src/test/java/table/data/TestTableData.java" beforeDir="false" afterPath="$PROJECT_DIR$/W3SchoolTableData/src/test/java/table/data/TestTableData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/amazonhome/TestAmazonHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/amazonhome/TestAmazonHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/src/test/java/home/TestNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/src/test/java/home/TestNews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3SchoolTableData/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/W3SchoolTableData/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3SchoolTableData/target/W3SchoolTableData-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3SchoolTableData/target/classes/table/page/TablePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3SchoolTableData/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3SchoolTableData/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3SchoolTableData/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3SchoolTableData/target/test-classes/W3SchoolTestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3SchoolTableData/target/test-classes/table/data/TestTableData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,10 +38,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/amazonhome/TestAmazonHomePage.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="54" />
+            <state relative-caret-position="129">
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,15 +50,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#839#840#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="351">
+              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="20" selection-start-line="20" selection-end-line="41" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/CnnTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="36" column="144" selection-start-line="36" selection-start-column="144" selection-end-line="36" selection-end-column="144" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/W3SchoolTableData/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -61,23 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/W3SchoolTableData/src/test/java/table/data/TestTableData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="108">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -94,8 +127,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/home/TestNews.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="216">
+              <caret line="10" column="119" selection-start-line="10" selection-start-column="119" selection-end-line="10" selection-end-column="119" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,20 +151,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
-        <option value="$PROJECT_DIR$/Cnn/pom.xml" />
-        <option value="$PROJECT_DIR$/Cnn/src/test/java/home/TestNews.java" />
         <option value="$PROJECT_DIR$/Cnn/src/test/resources/CnnTestRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/amazonhome/TestAmazonHomePage.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/W3SchoolTableData/pom.xml" />
         <option value="$PROJECT_DIR$/W3SchoolTableData/src/test/resources/W3SchoolTestRunner" />
         <option value="$PROJECT_DIR$/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml" />
         <option value="$PROJECT_DIR$/W3SchoolTableData/src/main/java/table/page/TablePage.java" />
         <option value="$PROJECT_DIR$/W3SchoolTableData/src/test/java/table/data/TestTableData.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/amazonhome/TestAmazonHomePage.java" />
+        <option value="$PROJECT_DIR$/Cnn/src/test/java/home/TestNews.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/Cnn/pom.xml" />
+        <option value="$PROJECT_DIR$/W3SchoolTableData/pom.xml" />
       </list>
     </option>
   </component>
@@ -147,12 +180,16 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="W3SchoolTableData" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Cnn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="W3SchoolTableData" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Cnn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -170,6 +207,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -202,30 +240,96 @@
               <item name="Amazon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="amazonhome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="W3SchoolTableData" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="W3SchoolTableData" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="W3SchoolTableData" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="browser-driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="W3SchoolTableData" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -233,9 +337,12 @@
               <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
               <item name="W3SchoolTableData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PNT_Automation_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="W3SchoolTableData" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
@@ -243,8 +350,6 @@
               <item name="W3SchoolTableData" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PNT_Automation_Framework" type="b2602c69:ProjectViewProjectNode" />
@@ -258,7 +363,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,7 +394,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Cnn/src/test/resources/CnnTestRunner.xml">
     <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Amazon/src/test/resources/AmazonTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Amazon" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
@@ -359,11 +463,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml" />
-        <item itemvalue="TestNG.TestTableData.scrapeTable" />
-        <item itemvalue="TestNG.TestAmazonHomePage.test1" />
-        <item itemvalue="TestNG.C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Amazon/src/test/resources/AmazonTestRunner.xml" />
         <item itemvalue="TestNG.C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Cnn/src/test/resources/CnnTestRunner.xml" />
+        <item itemvalue="TestNG.C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml" />
+        <item itemvalue="TestNG.C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Amazon/src/test/resources/AmazonTestRunner.xml" />
+        <item itemvalue="TestNG.TestAmazonHomePage.test1" />
+        <item itemvalue="TestNG.TestTableData.scrapeTable" />
       </list>
     </recent_temporary>
   </component>
@@ -381,42 +485,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestAmazonHomePage_test1 - 2019.11.08 at 15h 36m 42s.xml">
-      <configuration name="TestAmazonHomePage.test1" configurationId="TestNG" />
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_Amazon_src_test_resources_AmazonTestRunner_xml - 2019.11.16 at 09h 20m 35s.xml">
+      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestAmazonHomePage_test1 - 2019.11.13 at 14h 53m 17s.xml">
-      <configuration name="TestAmazonHomePage.test1" configurationId="TestNG" />
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_Cnn_src_test_resources_CnnTestRunner_xml - 2019.11.16 at 09h 36m 13s.xml">
+      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Cnn/src/test/resources/CnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_W3SchoolTableData_src_test_resources_W3SchoolTestRunner_xml - 2019.11.13 at 15h 33m 25s.xml">
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_Amazon_src_test_resources_AmazonTestRunner_xml - 2019.11.16 at 09h 41m 00s.xml">
+      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_Amazon_src_test_resources_AmazonTestRunner_xml - 2019.11.18 at 19h 25m 20s.xml">
+      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_Cnn_src_test_resources_CnnTestRunner_xml - 2019.11.18 at 19h 26m 13s.xml">
+      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Cnn/src/test/resources/CnnTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_W3SchoolTableData_src_test_resources_W3SchoolTestRunner_xml - 2019.11.18 at 19h 40m 09s.xml">
       <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_W3SchoolTableData_src_test_resources_W3SchoolTestRunner_xml - 2019.11.13 at 15h 41m 19s.xml">
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_Amazon_src_test_resources_AmazonTestRunner_xml - 2019.11.24 at 19h 05m 45s.xml">
+      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_Cnn_src_test_resources_CnnTestRunner_xml - 2019.11.24 at 19h 07m 23s.xml">
+      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Cnn/src/test/resources/CnnTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_W3SchoolTableData_src_test_resources_W3SchoolTestRunner_xml - 2019.11.24 at 19h 08m 05s.xml">
       <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_W3SchoolTableData_src_test_resources_W3SchoolTestRunner_xml - 2019.11.13 at 15h 46m 44s.xml">
-      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_W3SchoolTableData_src_test_resources_W3SchoolTestRunner_xml - 2019.11.13 at 15h 59m 34s.xml">
-      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestTableData_scrapeTable - 2019.11.14 at 01h 41m 15s.xml">
-      <configuration name="TestTableData.scrapeTable" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestTableData_scrapeTable - 2019.11.14 at 01h 47m 08s.xml">
-      <configuration name="TestTableData.scrapeTable" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_W3SchoolTableData_src_test_resources_W3SchoolTestRunner_xml - 2019.11.14 at 01h 47m 53s.xml">
-      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_W3SchoolTableData_src_test_resources_W3SchoolTestRunner_xml - 2019.11.14 at 01h 49m 03s.xml">
-      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/W3SchoolTableData/src/test/resources/W3SchoolTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Mohammed_I_Mannan_IdeaProjects_PNT_Automation_Framework_Cnn_src_test_resources_CnnTestRunner_xml - 2019.11.24 at 19h 10m 11s.xml">
+      <configuration name="C:/Users/Mohammed I Mannan/IdeaProjects/PNT_Automation_Framework/Cnn/src/test/resources/CnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22432433" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22972973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -430,7 +534,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32842416" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32842416" />
@@ -440,37 +544,9 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.2554054" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.16013514" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24662162" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32941177" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.2554054" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.IdeaIC2019.1/system/temp-testng-customsuite.xml">
@@ -487,67 +563,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/CnnTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/W3SchoolTableData/src/test/resources/W3SchoolTestRunner" />
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PNT_Automation_Framework.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W3SchoolTableData/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W3SchoolTableData/src/test/resources/W3SchoolTestRunner" />
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/amazonhome/TestAmazonHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="54" />
+        <state relative-caret-position="162">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -562,10 +601,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/W3SchoolTableData/src/test/java/table/data/TestTableData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="108">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -578,21 +617,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/home/TestNews.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="216">
+          <caret line="10" column="119" selection-start-line="10" selection-start-column="119" selection-end-line="10" selection-end-column="119" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W3SchoolTableData/src/test/java/table/data/TestTableData.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        <state relative-caret-position="129">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="20" selection-start-line="20" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/CnnTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="36" column="144" selection-start-line="36" selection-start-column="144" selection-end-line="36" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3SchoolTableData/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -646,7 +720,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>W3SchoolTableData</last-edited>
+          <last-edited>Amazon</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

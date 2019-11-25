@@ -8,6 +8,6 @@ public class TestNews extends CommonAPI {
 
     @Test
     public void test1(){
-        driver.findElement(By.cssSelector(".nav-linksstyles__Link-sc-1tike8v-0 nav-linksstyles__SectionLink-sc-1tike8v-4 cXrxeG")).click();
+        driver.findElement(By.xpath("//*[@id=\"header-nav-container\"]/div/div[1]/div/div[2]/nav/ul/li[3]/a")).click();
     }
 }
